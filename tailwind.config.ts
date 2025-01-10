@@ -11,6 +11,8 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        customBlueOne: '#4c75f7',
+        heroBackground: '#1b2136',
       },
     },
   },
